@@ -645,7 +645,7 @@ COMMENT ON COLUMN "DTSMANAGE"."SYS_USER"."F_PASSWORD" IS '登录密码md5';
 -- ----------------------------
 -- Records of SYS_USER
 -- ----------------------------
-INSERT INTO "DTSMANAGE"."SYS_USER" VALUES ('1', 'admin', 'admin', 'admin', '1', '1', TO_DATE('2018-08-17 14:50:37', 'YYYY-MM-DD HH24:MI:SS'), '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', TO_DATE('2018-08-16 14:38:14', 'YYYY-MM-DD HH24:MI:SS'), '1', TO_DATE('2018-08-17 14:49:37', 'YYYY-MM-DD HH24:MI:SS'), '1', TO_DATE('2018-08-17 14:49:34', 'YYYY-MM-DD HH24:MI:SS'), '1', 'E10ADC3949BA59ABBE56E057F20F883E');
+INSERT INTO "DTSMANAGE"."SYS_USER" VALUES ('1', 'admin', 'admin', 'admin', '1', '1', TO_DATE('2018-08-17 14:50:37', 'YYYY-MM-DD HH24:MI:SS'), '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', TO_DATE('2018-08-16 14:38:14', 'YYYY-MM-DD HH24:MI:SS'), '1', TO_DATE('2018-08-17 14:49:37', 'YYYY-MM-DD HH24:MI:SS'), '1', TO_DATE('2018-08-17 14:49:34', 'YYYY-MM-DD HH24:MI:SS'), '1', 'e10adc3949ba59abbe56e057f20f883e');
 INSERT INTO "DTSMANAGE"."SYS_USER" VALUES ('e4b7b5cb0e224fe48816945cab553519', null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, '0', null, null, TO_DATE('2018-09-05 15:55:34', 'YYYY-MM-DD HH24:MI:SS'), null, null, null, null, null, null);
 
 -- ----------------------------
